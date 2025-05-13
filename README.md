@@ -4,9 +4,9 @@ This repository contains the implementation of **Topo-PCN**, a topology-augmente
 
 ##  Project Overview
 
-- **Baseline Model:** Point Completion Network (PCN)
+- **Baseline Model:** Point Completion Network (PCN) (Yuan et al, 3DV 2018)
 - **Proposed Model:** Topo-PCN (PCN + topology features + topology loss)
-- **Comparison Model:** Point-Attention (Transformer-based)
+- **Comparison Model:** Point-Attention (Transformer-based) (Wang et al. AAAI 2024)
 - **Benchmark:** Modified ModelNet with topological corruptions
 - **Input:** Incomplete point clouds with associated 3D topology vectors
 - **Output:** Dense completed point clouds
