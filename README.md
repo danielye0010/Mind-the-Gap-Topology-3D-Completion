@@ -23,5 +23,11 @@ Topo-PCN extends PCN by injecting a 3D topology vector (from persistent homology
 - Chamfer loss (coarse + fine) + ramped topology loss
 - AdamW, cosine learning rate scheduling, gradient clipping, and mixed precision (AMP).
 
+## Acknowledgement
+This project is part of COM S 6720: Advanced Topics in Artificial Intelligence at Iowa State University. Developed by:
+* Daniel Ye
+* Shakiba Khourashahi
+* Ilia Jahanshahi
+
 
 
