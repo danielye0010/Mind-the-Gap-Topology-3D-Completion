@@ -28,6 +28,7 @@ Topo-PCN extends PCN by injecting a 3D topology vector (from persistent homology
 **Dataset**
 Prepare your dataset in the following format:
 
+```text
 data/
 └── air_plane_/
     ├── clean_with_holes/
@@ -38,6 +39,7 @@ data/
         ├── sample_000.txt
         ├── sample_001.txt
         └── ...
+```
 
 Each .txt file should contain:
 - A header line (ignored)
